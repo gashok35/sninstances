@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sales" max_length="40" name="x_sales_sales" type="collection">
+        <element label="Country" max_length="40" name="country" type="string"/>
+        <element label="Item Type" max_length="40" name="item_type" type="string"/>
+        <element label="Order Date" max_length="40" name="order_date" type="glide_date"/>
+        <element label="Order ID" max_length="40" name="order_id" type="string"/>
+        <element label="Order Priority" max_length="40" name="order_priority" type="string"/>
+        <element label="Region" max_length="40" name="region" type="string"/>
+        <element label="Sales Channel" max_length="40" name="sales_channel" type="string"/>
+        <element label="Ship Date" max_length="40" name="ship_date" type="glide_date"/>
+        <element label="Total Cost" max_length="40" name="total_cost" type="float"/>
+        <element label="Total Profit" max_length="40" name="total_profit" type="float"/>
+        <element label="Total Revenue" max_length="40" name="total_revenue" type="float"/>
+        <element label="Units Sold" max_length="40" name="units_sold" type="integer"/>
+        <element label="Unit Cost" max_length="40" name="unit_cost" type="float"/>
+        <element label="Unit Price" max_length="40" name="unit_price" type="float"/>
+    </element>
+</database>

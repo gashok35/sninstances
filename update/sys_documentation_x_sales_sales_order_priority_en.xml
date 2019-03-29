@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="order_priority" label="Order Priority" language="en" table="x_sales_sales">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>order_priority</element>
+            <help/>
+            <hint/>
+            <label>Order Priority</label>
+            <language>en</language>
+            <name>x_sales_sales</name>
+            <plural>Order Priorities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-28 23:44:36</sys_created_on>
+            <sys_id>4054f35431203300964ff3d937938539</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Order Priority</sys_name>
+            <sys_package display_value="Sales" source="x_sales">e7ffa7d031203300964ff3d9379385a4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sales">e7ffa7d031203300964ff3d9379385a4</sys_scope>
+            <sys_update_name>sys_documentation_x_sales_sales_order_priority_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-28 23:44:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
